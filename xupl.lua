@@ -1,1 +1,1 @@
-return {"my owner 🥵", "Retard", "random player noob 🤯"}
+return {"my owner 🥵", "fucktard", "random player noob 🤯"}
