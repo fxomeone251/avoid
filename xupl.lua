@@ -1,1 +1,1 @@
-return {"Level: inf 🥵", "Retard", "random player noob 🤯"}
+return {string.reverse("relehcierts legov emieheg red").." 🤯", "Retard", "random player noob 🤯"}
