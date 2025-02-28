@@ -1,1 +1,1 @@
-return {"Level: inf 🥵", "just a nigga retard", "random player noob 🤯"}
+return {"Level: inf 🥵", "Beschützer der Obdachlosen", "random player noob 🤯"}
