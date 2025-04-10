@@ -15,7 +15,4 @@ table.insert(Datatables["S1"]["Overrides"], "Octophant Pool With Elephant")
 table.insert(Datatables["S2"]["Overrides"], "Octophant Pool Without Elephant")
 table.insert(Datatables["S2"]["Overrides"], "Octophant Pool With Elephant")
 
-table.insert(Datatables["S1"]["Overrides"], "Octophant Pool") -- hopefully
-table.insert(Datatables["S2"]["Overrides"], "Octophant Pool") -- hopefully
-
 return Datatables
