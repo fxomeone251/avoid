@@ -6,8 +6,10 @@ Datatables["S1"] = {
 }
 Datatables["S2"] = {
     ["Locations"] = {"Azure Lagoon","Blue Moon - Second Sea","Emberreach","Emberreach Lava","Emberreach Ponds","Isle of New Beginnings","Lushgrove","Open Ocean","Pine Shoal","The Cursed Shores","Waveborne"},
-    ["Overrides"] = {"Animal Pool","Sea Leviathan Pool"} --hopefully
+    ["Overrides"] = {"Animal Pool","Sea Leviathan Pool"} 
 }
 Datatables["Locations"] = {"Abyssal Zenith","Ancient Archives","Ancient Isle","Animals1","Animals2","Archeological Site","Ashfall","Atlantean Storm","Atlantis","Azure Lagoon","Blue Moon - First Sea","Blue Moon - Second Sea","Brine Pool","Calm Zone","Challenger's Deep","Cryogenic Canal","Crypt","Cults Curse","Desolate Deep","Emberreach Lava","Emberreach Ponds","Emberreach","FischFright","Fischgiving","Fischmas","Forsaken Shores","Frigid Cavern","Glacial Grotto","Golden Tide","Grand Reef","Isle of New Beginnings","Keepers Altar","Lucky Event","Lushgrove","Moosewood","Mushgrove","Ocean","Octophant","Open Ocean","Overgrowth Caves","Pine Shoal","Roslit Volcano","Roslit","Snowcap","Sunstone","Terrapin","The Cursed Shores","The Depths","Veil of the Forsaken","Vertigo","Volcanic Vents","Waveborne","Winter's Edge"}
+Datatables["Fish"] = loadstring(game:HttpGet("https://raw.githubusercontent.com/Lythicals/script/refs/heads/main/newdatatables"))().Fish
+-- thanks lyth
 
 return Datatables
