@@ -14,4 +14,9 @@ Datatables["Locations"] = {"Abyssal Zenith","Ancient Archives","Ancient Isle","A
 Datatables["Fish"] = loadstring(game:HttpGet("https://raw.githubusercontent.com/Lythicals/script/refs/heads/main/newdatatables"))().Fish
 -- thanks lyth
 
+for i,v in pairs({"Octophant Pool Without Elephant", "Octophant Pool With Elephant"}) do
+  table.insert(Datatables["S1"], v)
+  table.insert(Datatables["S2"], v)
+end
+
 return Datatables
