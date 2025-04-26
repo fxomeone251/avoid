@@ -14,4 +14,9 @@ Datatables["Locations"] = {"Abyssal Zenith","Ancient Archives","Ancient Isle","A
 Datatables["Fish"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Lythicals/script/refs/heads/main/fisch/datatables", true))().Fish
 -- thanks lyth
 
+table.insert(Datatables["S1"], "LEGO - Studolodon")
+table.insert(Datatables["S1"], "LEGO")
+table.insert(Datatables["S2"], "LEGO - Studolodon")
+table.insert(Datatables["S2"], "LEGO")
+
 return Datatables
